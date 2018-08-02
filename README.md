@@ -27,11 +27,12 @@ The goals / steps of this project are the following:
 [image12]: ./output_images/test2final.jpg "Overlayed Image"
 [video1]: ./test_videos_output/project_video.mp4 "Video"
 
-## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
-
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation. The code for the project is located in the jupyter notebook "Advanced Lane Lines.ipynb."
+<!--- ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
+### Here I will consider the rubric points individually and describe how I addressed each point in my implementation. The code for the project is located in the jupyter notebook "Advanced Lane Lines.ipynb." ---> 
 
 ---
+### Project Code
+The project code is given in [Advanced Lane Lines.ipynb](https://github.com/anammy/CarND-Advanced-Lane-Lines/blob/master/Advanced%20Lane%20Lines.ipynb)
 
 ### Camera Calibration
 
