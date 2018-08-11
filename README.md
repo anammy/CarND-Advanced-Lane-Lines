@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 
 ---
 ### Project Code
-The project code is given in [Advanced Lane Lines.ipynb](https://github.com/anammy/CarND-Advanced-Lane-Lines/blob/master/Advanced%20Lane%20Lines.ipynb)
+The project code is given in [Advanced Lane Lines.ipynb.](https://github.com/anammy/CarND-Advanced-Lane-Lines/blob/master/Advanced%20Lane%20Lines.ipynb)
 
 ### Camera Calibration
 
@@ -141,7 +141,7 @@ I then overlayed the lane lines onto the original test image along with the lane
 
 I applied the above techniques to the frames in the video 'project_video.mp4' using the function 'process_image().'
 
-Here's a [link to my video result](./test_videos_output/project_video.mp4)
+Here's a [link to my video result.](./test_videos_output/project_video.mp4)
 
 ---
 
